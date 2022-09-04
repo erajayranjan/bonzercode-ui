@@ -3,7 +3,7 @@ import axios from 'axios'
 // this is a config for Axios so that we need not to pass full URL instead will pass relative url
 var authToken=localStorage.getItem('token')!=null ? `Bearer ${localStorage.getItem('token')}` : null;
 const apiCall = axios.create({  
-    baseURL: 'http://localhost:5000',
+    baseURL: 'https://bonzercode-api.herokuapp.com',
     timeout: 3000,
     headers: {
         "Content-Type" : "application/json",
