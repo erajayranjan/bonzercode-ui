@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bonzercode-ui/static/css/main.073c9b0a.css",
-    "main.js": "/bonzercode-ui/static/js/main.44f3e514.js",
+    "main.js": "/bonzercode-ui/static/js/main.6f56af02.js",
     "static/js/787.832959b9.chunk.js": "/bonzercode-ui/static/js/787.832959b9.chunk.js",
     "static/media/logo.svg": "/bonzercode-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bonzercode-ui/index.html",
     "main.073c9b0a.css.map": "/bonzercode-ui/static/css/main.073c9b0a.css.map",
-    "main.44f3e514.js.map": "/bonzercode-ui/static/js/main.44f3e514.js.map",
+    "main.6f56af02.js.map": "/bonzercode-ui/static/js/main.6f56af02.js.map",
     "787.832959b9.chunk.js.map": "/bonzercode-ui/static/js/787.832959b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.44f3e514.js"
+    "static/js/main.6f56af02.js"
   ]
 }
